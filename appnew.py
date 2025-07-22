@@ -16,7 +16,7 @@ def load_model():
 
 index, chunks = load_model()
 
-st.title("📄 RAG Q&A from Preprocessed PDF")
+st.title("📄CLASS 9TH Science CBSE RAG  RAG Q&A System")
 
 question = st.text_input("Ask a question:")
 if question:
